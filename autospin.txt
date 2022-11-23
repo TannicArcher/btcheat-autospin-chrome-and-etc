@@ -1,0 +1,3 @@
+setInterval(function () {document.getElementById("playFancy").click();}, 4000);
+setTimeout(function () { window.location.replace(window.location.href); }, 70000);
+Auto Spin 4 Seconds
